@@ -1,0 +1,7 @@
+D:\diego\UCB\semestre3 year 2\Programacion 2\juegoAhorcado\obj\Debug\juegoAhorcado.csproj.AssemblyReference.cache
+D:\diego\UCB\semestre3 year 2\Programacion 2\juegoAhorcado\obj\Debug\juegoAhorcado.csproj.CoreCompileInputs.cache
+D:\diego\UCB\semestre3 year 2\Programacion 2\juegoAhorcado\bin\Debug\juegoAhorcado.exe.config
+D:\diego\UCB\semestre3 year 2\Programacion 2\juegoAhorcado\bin\Debug\juegoAhorcado.exe
+D:\diego\UCB\semestre3 year 2\Programacion 2\juegoAhorcado\bin\Debug\juegoAhorcado.pdb
+D:\diego\UCB\semestre3 year 2\Programacion 2\juegoAhorcado\obj\Debug\juegoAhorcado.exe
+D:\diego\UCB\semestre3 year 2\Programacion 2\juegoAhorcado\obj\Debug\juegoAhorcado.pdb
